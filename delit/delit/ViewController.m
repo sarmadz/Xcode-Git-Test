@@ -23,10 +23,6 @@
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
     
-    NSLog(@"This should hit gitjub");
-    
-    NSLog(@"This should hit gitjub ..........");    
-
 }
 
 - (void)viewDidUnload
